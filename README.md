@@ -61,3 +61,8 @@ My technical progression is documented through my repositories. I share implemen
 ```
 Advanced C# patterns, Rust memory management, and refining backend architectures.
 ```
+
+### ♟️ Communication
+```
+nicemensclub@protonmail.com
+```
